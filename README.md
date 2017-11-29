@@ -24,3 +24,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 
 Beautiful logo from http://flamingtext.com/.
+
+![cowsaywomsay](https://github.com/wemmm/womsay/blob/master/cowsaywomsay.png) 
+
+Also you can pipe it through [Cowsay](https://github.com/PatrickTulskie/ruby_cowsay) and [Lolcat](https://github.com/busyloop/lolcat).
