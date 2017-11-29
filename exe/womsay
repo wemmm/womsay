@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'womsay'
+
+womsayer = Womsay::WomSayer.new
+puts womsayer.say_something
