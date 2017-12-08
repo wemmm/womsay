@@ -7,7 +7,7 @@ This is an experiment to find out about making Ruby gems, in the form of a CL ge
 Clone this repo and navigate to it via the command line, then:
 
 
-```bundle install```
+```rake install```
 
 
 ```chmod +x exe/womsay``` - this adds the womsay command.
@@ -25,6 +25,6 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 Beautiful logo from http://flamingtext.com/.
 
-![cowsaywomsay](https://github.com/wemmm/womsay/blob/master/cowsaywomsay.png) 
+![cowsaywomsay](https://github.com/wemmm/womsay/blob/master/cowsaywomsay.png)
 
 Also you can pipe it through [Cowsay](https://github.com/PatrickTulskie/ruby_cowsay) and [Lolcat](https://github.com/busyloop/lolcat).
